@@ -73,9 +73,9 @@ print "\n#----------------------------------------#CapitalOne Anaylsis Summary--
 print "      - Number of Positive Posts: " + str(positive) 
 print "      - Number of Negative Posts: " + str(negative)
 print "      - Number of Netural Posts:  " + str(netural) + "\n"
-print "      - Percentage of Positive Posts in 20 Posts: " + percent_positive
-print "      - Percentage of Negative Posts in 20 Posts: " + percent_negative
-print "      - Percentage of Netural Posts in 20 Posts:  " + percent_netural
+print "      - Percentage of Positive Posts in 1000 Posts: " + percent_positive
+print "      - Percentage of Negative Posts in 1000 Posts: " + percent_negative
+print "      - Percentage of Netural Posts in 1000 Posts:  " + percent_netural
 print "#---------------------------------------------------------------------------------------------------------------#"
 
 fig = {
